@@ -1,0 +1,19 @@
+Comando freenitro
+Gatilho: você escolhe
+-----------------
+$nomention
+$title[<:DiscordNitro:921013240312500234> Você Recebeu Um Presente!]
+$description[$randomText[<:nitro:921017326915178507> Discord Nitro;<:DiscordNitro:921013240312500234> Discord Nitro Classic]
+$addField[Expira Em:;$randomText[1 Hora;2 Horas;3 Horas;4 Horas;5 Horas;6 Horas;7 Horas;8 Horas;9 Horas;10 Horas;11 Horas;12 Horas;13 Horas;14 Horas;15 Horas;16 Horas;17 Horas;18 Horas;19 Horas;20 Horas;21 Horas;22 Horas;23 Horas;24 Horas]]]
+$footer[Clique Em Resgatar Antes Que Acabe O Tempo!!!]
+$addButton[no;nitro;Resgatar!;primary;no;<:DiscordNitro:921013240312500234>]
+------------------
+
+Comando do botão
+Gatilho: $onInteraction[nitro]
+##################
+$nomention
+$description[☢️ Você pegou 10 vírus]
+$removeComponent[nitro]
+$editEmbedIn[5s;Na verdade...;☢️ Você pegou **1000000** vírus;Oh meu deus!!!;#00000]
+##################
