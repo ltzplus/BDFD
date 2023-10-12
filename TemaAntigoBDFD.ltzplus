@@ -1,0 +1,4 @@
+PS: para botar o tema, vá nas configurações, alterar destaques dos códigos e selecione alterar tema, cole o código abaixo e confirme:
+++++++++++++++++++++++++++++
+{"defaultTextHighlight":{"color":4294967295,"style":0},"fallbackHighlight":{"color":4278240295,"style":0},"bracketHighlight":{"color":4289134643,"style":1},"semicolonHighlight":{"color":4278254847,"style":1},"functionsHighlights":{}}
+++++++++++++++++++++++++++++
